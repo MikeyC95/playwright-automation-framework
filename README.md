@@ -149,9 +149,3 @@ The report includes test results, failure screenshots, traces, and video recordi
 | `typescript` | ^5.7.0 | TypeScript compiler |
 | `@types/node` | ^22.0.0 | Node.js type definitions |
 | `dotenv` | ^16.4.0 | Environment variable loading |
-
----
-
-## License
-
-MIT
